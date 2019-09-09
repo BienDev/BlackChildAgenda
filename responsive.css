@@ -1,0 +1,3520 @@
+@media (min-width: 1670px) {
+  .container {
+    max-width: 1670px;
+    margin: auto;
+  }
+}
+
+@media (max-width: 1440px) {
+
+/* Index Page */
+
+.logoSize {
+  width: 91px;
+}
+
+.top__nav {
+  top: 15px;
+  right: 15px;
+  height: 30px;
+}
+
+.top__nav p {
+  font-size: 11px;
+  margin-right: 15px;
+}
+
+.top__nav h6 {
+  font-size: 18px;
+}
+
+.sFormSearch input, .sFormLocation input {
+  font-size: 12px;
+}
+
+.nav-link {
+  font-size: 15px;
+  margin-left: 35px;
+}
+
+.heroText h1 {
+  font-size: 81px;
+}
+
+.heroText p {
+  font-size: 17px;
+  margin-bottom: 40px;
+}
+
+.heroText a {
+  padding: 20px 60px;
+  font-size: 20px;
+}
+
+.heroLinks a {
+  font-size: 20px;
+}
+
+.heroLinks li:not(:first-child) {
+  margin-top: 20px;
+}
+
+.v-l {
+  width: 2px;
+  height: 75px;
+  margin-left: 10px;
+}
+
+.whoWeAreSection {
+  padding-top: 160px;
+  padding-bottom: 280px;
+  text-align: center;
+}
+
+.whoWeAreCard h3 {
+  font-size: 73px;
+  margin-bottom: 70px;
+  margin-left: 30px;
+}
+
+.whoWeAreCard {
+  margin-left: 0;
+  text-align: left;
+  max-width: 450px;
+  margin: 0 auto;
+}
+
+.whoWeAreCard p {
+  font-size: 17px;
+  margin-bottom: 40px;
+  max-width: 400px;
+}
+
+.whoWeAreCard a {
+  padding: 10px 70px;
+  font-size: 17px;
+  margin-left: 100px;
+}
+
+.whoWeAreSection h1 {
+  top: 10%;
+  left: 20%;
+  font-size: 480px;
+}
+
+.whoWeAreSection::after {
+  top: 95px;
+  right: 140px;
+  width: 120px;
+  height: 40px;
+}
+
+.whatWeDoSection h1 {
+  font-size: 243px;
+}
+
+.whatWeDoSection h1:before {
+  top: 20px;
+  left: 20px;
+  width: 120px;
+  height: 40px;
+}
+
+.whatWeDoImg,
+.cSImg {
+  width: 90px;
+  height: 90px;
+  margin: 0 auto 15px;
+}
+
+.whatWeDoSection h5,
+.categorySect h6 {
+  font-size: 21px;
+  margin-bottom: 20px;
+}
+
+.whatWeDoSection p {
+  font-size: 14px;
+  margin-bottom: 30px;
+}
+
+.whatWeDoSection a {
+  font-size: 16px;
+  padding: 10px 40px;
+}
+
+.legalContain {
+  height: 950px;
+}
+
+.outer { 
+  width: 970px;
+  height: 760px;
+}
+
+#big .item { 
+  height: 760px;
+}
+
+#thumbs { 
+  height: 210px;
+  bottom: -100px;
+  z-index: 3;
+}
+
+#thumbs .item { 
+  width: 315px;
+  height: 210px;
+  padding: 0 5px;
+}
+
+.legalSection {
+  position: absolute;
+  top: 85px;
+  right: 100px;
+  width: 400px;
+}
+
+.legalSection h4 {
+  font-size: 73px;
+  margin-bottom: 50px;
+}
+
+.legalSection h4:before {
+  top: 0px;
+  left: 100px;
+  width: 120px;
+  height: 40px;
+  transform: rotate(35deg);
+}
+
+.legalSection p {
+  font-size: 17px;
+  margin-bottom: 50px;
+  margin-left: 55px;
+}
+
+.legalSection a {
+  font-size: 16px;
+  margin-left: 55px;
+  padding: 10px 50px;
+}
+
+#thumbs .owl-nav .owl-next {
+  right: -120px;
+  bottom: 80px;
+  width: 90px;
+  height: 60px;
+  font-size: 40px;
+}
+
+/* Footer */
+
+footer {
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.footerLogo {
+  margin-bottom: 30px;
+}
+
+.nav-bot a {
+  font-size: 16px;
+}
+
+.social-links a {
+  font-size: 20px;
+}
+
+/* Global Title Size */
+
+.heroLinks__inner a {
+  font-size: 20px;
+}
+
+.samTitle h3,
+.investmentSectTitle h3,
+.hwynuTitle h3,
+.contactInfoTitle h3,
+.hwynuTitle h3,
+.contactInfoTitle h3,
+.sendAMessageTitle h3,
+.stonTitle h3,
+.homeSchoolTitle h3,
+.homeSchool2Title h3,
+.bmTitle h3,
+.categoryTitle h3,
+.rsTitle h3,
+.podcastTitle h3,
+.subsTitle h3,
+.smnTitle h3,
+.pcTitle h3,
+.resourcesTitle h3,
+.downloadsTopTitle h3,
+.taTitle h3,
+.ebTitle h3,
+.dbTitle h3,
+.hpnrTitle h3,
+.bamTitle h3,
+.faqTTitle h3,
+.ciTitle h3,
+.dtTitle h3,
+.pTitle h3,
+.cTitle h3,
+.acTitle h3,
+.sTitle h3,
+.mpTitle h3,
+.auTitle h3,
+.mttTitle h3,
+.wwdTitle h3,
+.eduTitle h3,
+.fsTitle h3,
+.laaaTitle h3,
+.lacTitle h3 {
+  font-size: 57px;
+}
+
+.samP p,
+.investmentSection p, .signUp,
+.hwynuSection p,
+.formInput input, .formMessage textarea,
+.newsLetterForm input[type=text],
+.homeSchoolSect p,
+.flexiSchoolCard p,
+.bmSect p,
+.postInfo p, .postInfo a,
+.podcastInfo li,
+.podcastInfo p,
+.pcInfo p,
+.mttCard p,
+.downloadsTopSect p,
+.taSect p,
+.ebSect p,
+.hpnrSect p,
+.bamForm input,
+.pCard p,
+.cInfo p,
+.inputForm input,
+.inputText textarea,
+.auSect p,
+.auList li,
+.auList a,
+.mttSect p,
+.wwdSect p,
+.fsSect li,
+.laaaSect p,
+.lacSect p {
+  font-size: 17px;
+}
+
+/* Blog and Media Page */
+
+.bmTitle .top-inner {
+  margin-left: 77px;
+}
+
+.bmTitle .bottom {
+  margin-left: 125px;
+}
+
+.bmTitle::before {
+  left: 110px;
+  top: -40px;
+  width: 310px;
+  height: 430px;
+}
+
+.bmImg {
+  max-width: 730px;
+  height: auto;
+  margin-bottom: 25px;
+}
+
+.categoryTitle {
+  margin-right: 55px;
+  margin-top: 140px;
+}
+
+.categoryTitle::before {
+  top: -140px;
+  width: 390px;
+  height: 340px;
+}
+
+.rsTitle::before {
+  top: 65px;
+  width: 410px;
+  height: 270px;
+}
+
+.recentPostForm h4 {
+  font-size: 22px;
+  margin-bottom: 35px;
+}
+
+.recentPostForm h4:after {
+  width: 160px;
+  height: 22px;
+}
+
+.recentPostForm h4:before {
+  top: 11px;
+}
+
+.postCard {
+  margin-bottom: 40px;
+}
+
+.podcastTitle h3 {
+  line-height: 1;
+}
+
+.podcastTitle::before {
+  left: 10px;
+  top: -40px;
+  width: 320px;
+  height: 300px;
+}
+
+.podcastImg {
+  width: 200px;
+  top: -3px;
+  left: -3px;
+  bottom: -3px;
+}
+
+.podcastCard {
+  border: 3px solid #000;
+  margin-bottom: 40px;
+  min-height: 200px;
+  padding: 20px;
+}
+
+.podcastInfo {
+  margin-left: 200px;
+}
+
+.podcastInfo h2 {
+  font-size: 27px;
+}
+
+.podcastInfo ul {
+  margin-bottom: 10px;
+}
+
+.subsTitle {
+  margin-left: 50px;
+}
+
+.subsTitle::before {
+  left: -14px;
+  top: 140px;
+  width: 430px;
+  height: 290px;
+}
+
+.subsImg {
+  max-width: 660px;
+}
+
+.smnImg {
+  margin-left: 80px;
+  max-width: 510px;
+  margin-bottom: 20px;
+}
+
+.smnSect a {
+  margin-left: 80px;
+  font-size: 27px;
+}
+
+.smnTitle::before {
+  left: 15px;
+  width: 320px;
+  height: 300px;
+}
+
+.pcTitle {
+  max-width: 350px;
+  margin-left: 90px;
+  margin-bottom: 60px;
+}
+
+.pcTitle::before {
+  top: 110px;
+  width: 430px;
+  height: 290px;
+}
+
+.pcInfo {
+  max-width: 560px;
+}
+
+.pcImg {
+  margin-bottom: 40px;
+}
+
+.pcInfo h4 {
+  font-size: 27px;
+  margin-bottom: 20px;
+}
+
+/* About Us Page */
+
+.auTitle .bottom {
+  margin-left: 145px;
+}
+
+.auTitle::before {
+  left: 130px;
+  top: -40px;
+  width: 310px;
+  height: 430px;
+}
+
+.auImg {
+  max-width: 550px;
+  margin-bottom: 80px;
+}
+
+.mttTitle {
+  margin-right: 60px;
+}
+
+.mttTitle::before {
+  right: -10px;
+  top: -80px;
+  width: 310px;
+  height: 330px;
+}
+
+.mttcImg {
+  width: 160px;
+  height: 160px;
+}
+
+.mttCard {
+  padding: 60px 20px 30px;
+}
+
+.mttCard h5 {
+  font-size: 22px;
+}
+
+.mttCard h6 {
+  font-size: 22px;
+}
+
+.wwdImg {
+  max-width: 370px;
+  margin-top: -110px;
+}
+
+.wwdTitle .bottom {
+  margin-left: 0;
+}
+
+.wwdTitle {
+  margin-right: 30px;
+}
+
+.wwdTitle::before {
+  right: -10px;
+  top: -80px;
+  width: 310px;
+  height: 330px;
+}
+
+.wwdSect h6 {
+  font-size: 22px;
+  margin-top: 140px;
+  margin-bottom: 30px;
+}
+
+.eduTitle::before {
+  right: 0;
+  top: 70px;
+  width: 430px;
+  height: 290px;
+}
+
+.eduSect p {
+  font-size: 21px;
+  margin-bottom: 20px;
+}
+
+.eduSect a {
+  font-size: 18px;
+  padding: 10px 50px;
+}
+
+.fsSect h6 {
+  margin-top: 40px;
+  font-size: 21px;
+}
+
+.fsTitle::before {
+  right: -10px;
+  top: 55px;
+  width: 430px;
+  height: 290px;
+}
+
+.laaaTitle .bottom {
+  margin-left: 90px;
+}
+
+.laaaTitle::before {
+  left: -10px;
+  top: 120px;
+  width: 460px;
+  height: 400px;
+}
+
+.lacImgTop {
+  max-width: 405px;
+  margin-left: -150px;
+}
+
+.lacTitle .top {
+  margin-bottom: 10px;
+}
+
+.lacImgBot {
+  max-width: 430px;
+}
+
+/* Community Interaction Page */
+
+.ciTitle .bottom {
+  margin-left: 260px;
+}
+
+.ciTitle::before {
+  left: 245px;
+  top: -40px;
+  width: 370px;
+  height: 430px;
+}
+
+.ciImage {
+  margin-left: 320px;
+  max-width: 630px;
+}
+
+.dtImg {
+  height: 100px;
+  width: 100px;
+}
+
+.dtCard p {
+  font-size: 21px;
+  margin-bottom: 30px;
+}
+
+.dtCard a {
+  padding: 8px 30px;
+  font-size: 17px;
+}
+
+.dtTitle::before {
+  left: -320px;
+  top: -40px;
+  width: 320px;
+  height: 300px;
+}
+
+.dtTitle {
+  position: relative;
+  margin-top: 30px;
+  margin-left: 300px;
+}
+
+.pTitle::before {
+  left: 105px;
+  top: -40px;
+  width: 320px;
+  height: 430px;
+}
+
+.pImg {
+  margin-left: 390px;
+  max-width: 620px;
+  margin-bottom: 50px;
+}
+
+.pCard h6, .pCard span {
+  font-size: 22px;
+}
+
+.commentsSect h6 {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.cImg {
+  width: 120px;
+  height: 120px;
+}
+
+.cReplyBtn a {
+  padding: 10px 30px;
+  font-size: 17px;
+}
+
+.cTitle::before {
+  left: -10px;
+  top: -100px;
+  width: 320px;
+  height: 300px;
+}
+
+.acTitle::before {
+  left: -20px;
+  top: 110px;
+  width: 430px;
+  height: 290px;
+}
+
+.cfBtn a {
+  padding: 10px 70px;
+  font-size: 18px;
+}
+
+/* Contact Page */
+
+.contactInfoTitle .bottom {
+  margin-left: 180px;
+}
+
+.contactInfoTitle::before {
+  top: -40px;
+  left: 167px;
+  width: 320px;
+  height: 430px;
+}
+
+.contactInfoImg {
+  max-width: 700px;
+}
+
+.contactInfo p {
+  font-size: 21px;
+  margin-bottom: 10px;
+}
+
+.contactInfo a {
+  font-size: 25px;
+}
+
+.contactInfo li {
+  padding-top: 5px;
+  padding-left: 8px;
+  width: 50px;
+  height: 50px;
+}
+
+.sendAMessageTitle {
+  margin-left: 200px;
+}
+
+.sendAMessageTitle::before {
+  left: -200px;
+  top: -60px;
+  width: 310px;
+  height: 300px;
+}
+
+.sendAMessageTitle .middle {
+  margin-left: 72px;
+}
+
+.sendAMessageTitle .bottom {
+  margin-left: 110px;
+}
+
+.stonTitle {
+  margin-left: 150px;
+}
+
+.stonTitle::before {
+  left: -210px;
+  top: -30px;
+  width: 430px;
+  height: 290px;
+}
+
+.stonTitle .middle {
+  margin-left: 160px;
+}
+
+.stonTitle .bottom {
+  margin-left: 220px;
+}
+
+/* Home Flexi School Page */
+
+.homeSchoolTitle::before {
+  left: 210px;
+  top: -40px;
+  width: 350px;
+  height: 430px;
+}
+
+.homeSchoolTitle .top-inner {
+  margin-left: 100px;
+}
+
+.homeSchoolTitle .bottom {
+  margin-left: 225px;
+}
+
+.homeSchoolImg {
+  max-width: 700px;
+  margin-left: 320px;
+  margin-bottom: 20px;
+}
+
+.homeSchoolSect p {
+  margin-left: 320px;
+  margin-bottom: 5px;
+}
+
+.flexSchoolImg {
+  width: 120px;
+  height: 120px;
+  margin: 0 auto 20px;
+}
+
+.flexiSchoolCard {
+  border: 3px solid #7db343;
+  padding: 70px 30px 30px;
+}
+
+.flexiSchoolCard h5 {
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+.homeSchool2Title::before {
+  left: 0;
+  top: 55px;
+  width: 370px;
+  height: 290px;
+}
+
+.homeSchool2Title .bottom {
+  margin-left: 270px;
+}
+
+.hs2Img {
+  width: 90px;
+  height: 90px;
+  margin: 0 auto 15px;
+}
+
+.homeSchool2Sect h6 {
+  font-size: 20px;
+  font-family: 'Poppins-Medium';
+  margin-bottom: 20px;
+  color: #545454;
+}
+
+/* Resources Page */
+
+.resourcesTitle::before {
+  left: 230px;
+  top: -40px;
+  width: 350px;
+  height: 430px;
+}
+
+.resourcesImg {
+  margin-right: 70px;
+  max-width: 640px;
+}
+
+.downloadsTopTitle::before {
+  left: 50px;
+  top: 0;
+  width: 370px;
+  height: 300px;
+}
+
+.downloadsTopTitle {
+  margin-left: 80px;
+  margin-top: 100px;
+  margin-bottom: 180px;
+}
+
+.downloadsTopSect a {
+  text-transform: uppercase;
+  padding: 10px 20px;
+  border: 2px solid #2f2f2f;
+  color: #2f2f2f;
+  text-align: center;
+  font-size: 19px;
+  font-family: 'Poppins-Bold';
+  white-space: nowrap;
+}
+
+.taTitle {
+  margin-left: 30px;
+}
+
+.taTitle::before {
+  left: -10px;
+  top: 55px;
+  width: 430px;
+  height: 290px;
+}
+
+.taTitle h3 {
+  margin-bottom: 325px;
+}
+
+.fppCardForm {
+  margin: 0 30px;
+}
+
+.fppCardForm h5 {
+  font-size: 25px;
+  margin-bottom: 25px;
+}
+
+.fppImg {
+  width: 100%;
+  height: 220px;
+  margin-bottom: 30px;
+}
+
+.fppCard h6 {
+  font-size: 17px;
+}
+
+.fppCard a {
+  padding: 10px 60px;
+  font-size: 18px;
+}
+
+.ebTitle {
+  margin-left: 160px;
+  margin-top: 50px;
+}
+
+.ebTitle::before {
+  left: -185px;
+  top: -70px;
+  width: 300px;
+  height: 300px;
+}
+
+.ebTitle .bottom {
+  margin-left: 115px;
+}
+
+.ebList {
+  width: 100%;
+}
+
+.ebListNav {
+  padding: 40px;
+  margin-bottom: 30px;
+}
+
+.ebListNav a {
+  font-size: 35px;
+}
+
+.ebImg {
+  width: 100%;
+  height: 400px;
+  padding: 30px 50px;
+  margin-bottom: 30px;
+}
+
+.ebCard h6 {
+  margin-bottom: 40px;
+}
+
+.ebCard a {
+  font-size: 18px;
+}
+
+.dbTitle {
+  margin-left: 50px;
+}
+
+.dbTitle::before {
+  left: -10px;
+  top: 55px;
+  width: 420px;
+  height: 290px;
+}
+
+.dbImg {
+  height: 100px;
+  margin: 0 auto 20px;
+}
+
+.dbCard h6 {
+  font-size: 22px;
+}
+
+.dbCard a {
+  font-size: 18px;
+}
+
+.hpnrTitle::before {
+  left: -10px;
+  top: 55px;
+  width: 390px;
+  height: 340px;
+}
+
+.hpnrTitle {
+  margin-right: 78px;
+}
+
+.hpnrTitle .bottom {
+  margin-left: 236px;
+}
+
+.bamTitle::before {
+  left: -10px;
+  top: 55px;
+  width: 420px;
+  height: 300px;
+}
+
+.bamTitle .bottom {
+  margin-left: 140px;
+}
+
+.faqTTitle {
+  max-width: 410px;
+  margin: 200px auto 160px;
+}
+
+.faqTTitle::before {
+  left: -10px;
+  top: 150px;
+  width: 100%;
+  height: 280px;
+}
+
+.faqTList a {
+  font-size: 17px;
+}
+
+.faqTList li {
+  padding: 10px 10px;
+  margin-bottom: 20px;
+}
+
+.faqBsect h6 {
+  font-size: 26px;
+  margin-bottom: 25px;
+}
+
+.faqBsect li {
+  margin-bottom: 20px;
+}
+
+.faqBsect a {
+  font-size: 16px;
+}
+
+/* Services and Membership Page */
+
+.samTitle {
+  margin-left: 80px;
+}
+
+.samTitle .middle {
+  margin-left: 150px;
+}
+
+.samTitle .bottom {
+  margin-left: 200px;
+}
+
+.samTitle::before {
+  top: -40px;
+  left: 185px;
+  width: 380px;
+  height: 430px;
+}
+
+.samImg {
+  margin-left: 315px;
+  height: auto;
+  max-width: 860px;
+  position: relative;
+  z-index: 1;
+  margin-bottom: 30px;
+}
+
+.samImgBtn a {
+  font-size: 23px;
+}
+
+.samP {
+  margin-left: 205px;
+}
+
+.investmentSectTitle::before {
+  left: -160px;
+  top: -50px;
+  width: 320px;
+  height: 300px;
+}
+
+.investmentSectTitle .middle {
+  margin-left: 97px;
+}
+
+.investmentSectTitle .bottom {
+  margin-left: 161px;
+}
+
+.iSImg {
+  width: 110px;
+  height: 110px;
+  margin: 0 auto 30px;
+}
+
+.iSCard h6 {
+  font-size: 21px;
+  margin-bottom: 40px;
+}
+
+.hwynuTitle {
+  max-width: 430px;
+}
+
+.hwynuTitle::before {
+  bottom: -200px;
+  left: -10px;
+  width: 430px;
+  height: 290px;
+}
+
+.botSectImg {
+  margin-right: 60px;
+  max-width: 730px;
+  height: auto;
+  margin-left: auto;
+}
+
+/* Store Page */
+
+.sTitle::before {
+  left: 125px;
+  top: -40px;
+  width: 320px;
+  height: 430px;
+}
+
+.sTitle {
+  margin-left: 60px;
+}
+
+.sImg {
+  margin-top: 145px;
+  max-width: 700px;
+}
+
+.categorySect li {
+  width: 33%;
+  margin-bottom: 30px;
+}
+
+.categorySect h6 {
+  font-size: 19px;
+}
+
+.categorySectStore a {
+  padding: 10px 50px;
+  font-size: 17px;
+}
+
+.categoryTitleStore::before {
+  right: -10px;
+  top: -40px;
+  width: 320px;
+  height: 300px;
+}
+
+.categoryTitleStore {
+  margin-top: 0;
+  margin-right: 50px;
+  position: relative;
+}
+
+.mpTitle .top {
+  margin-bottom: 20px;
+}
+
+.mpTitle::before {
+  left: -15px;
+  top: 65px;
+  width: 430px;
+  height: 290px;
+}
+
+.mpTitle {
+  margin-left: 40px;
+  max-width: 400px;
+}
+
+.mpImg {
+  max-width: 550px;
+  margin-left: 300px;
+  margin-bottom: 40px;
+}
+
+.ebCard h4 {
+  font-size: 22px;
+}
+} 
+
+@media (max-width: 1199px) {
+
+  /* Index Page */
+  
+  .logoSize {
+    width: 90px;
+  }
+  
+  .top__nav {
+    top: 15px;
+    right: 15px;        
+    height: 25px;
+  }
+  
+  .nav-link {
+    font-size: 15px;
+    margin-left: 20px;
+  }
+  
+  .heroText h1 {
+    font-size: 67px;
+  }
+  
+  .heroText p {
+    font-size: 14px;
+    margin-bottom: 30px;
+  }
+  
+  .heroText a {
+    padding: 15px 50px;
+    font-size: 17px;
+  }
+  
+  .heroLinks a {
+    font-size: 17px;
+  }
+  
+  .heroLinks li:not(:first-child) {
+    margin-top: 15px;
+  }
+  
+  .v-l {
+    width: 1px;
+    height: 65px;
+    margin-left: 5px;
+  }
+  
+  .whoWeAreSection {
+    padding-top: 130px;
+    padding-bottom: 230px;
+    text-align: center;
+  }
+  
+  .whoWeAreCard h3 {
+    font-size: 60px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+  }
+  
+  .whoWeAreCard {
+    margin-left: 0;
+    text-align: left;
+    max-width: 450px;
+    margin: 0 auto;
+  }
+  
+  .whoWeAreCard p {
+    font-size: 15px;
+    margin-bottom: 30px;
+    max-width: 400px;
+  }
+  
+  .whoWeAreCard a {
+    padding: 10px 60px;
+    font-size: 16px;
+    margin-left: 80px;
+  }
+  
+  .whoWeAreSection h1 {
+    top: 10%;
+    left: 20%;
+    font-size: 400px;
+  }
+  
+  .whoWeAreSection::after,
+  .whatWeDoSection h1:before,
+  .legalSection h4:before {
+    width: 95px;
+    height: 30px;
+  }
+
+  .whoWeAreSection::after {
+    top: 95px;
+    right: 140px;
+  }
+  
+  .whatWeDoSection h1 {
+    font-size: 200px;
+  }
+  
+  .whatWeDoSection h1:before {
+    top: 20px;
+    left: 20px;
+  }
+  
+  .whatWeDoImg {
+    width: 80px;
+    height: 80px;
+  }
+  
+  .whatWeDoSection h5 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  
+  .whatWeDoSection p {
+    font-size: 12px;
+    margin-bottom: 20px;
+  }
+  
+  .whatWeDoSection a {
+    font-size: 14px;
+    padding: 8px 30px;
+  }
+  
+  .legalContain {
+    height: 790px;
+  }
+  
+  .outer { 
+    width: 810px;
+    height: 630px;
+  }
+  
+  #big .item { 
+    height: 630px;
+  }
+  
+  #thumbs { 
+    height: 180px;
+    bottom: -100px;
+    z-index: 3;
+  }
+  
+  #thumbs .item { 
+    width: 260px;
+    height: 180px;
+    padding: 0 5px;
+  }
+  
+  .legalSection {
+    position: absolute;
+    top: 70px;
+    right: 15px;
+    width: 400px;
+  }
+  
+  .legalSection h4 {
+    font-size: 60px;
+    margin-bottom: 40px;
+  }
+  
+  .legalSection h4:before {
+    top: 0px;
+    left: 80px;
+  }
+  
+  .legalSection p {
+    font-size: 15px;
+    margin-bottom: 40px;
+    margin-left: 50px;
+  }
+  
+  .legalSection a {
+    font-size: 15px;
+    margin-left: 50px;
+    padding: 10px 40px;
+  }
+  
+  #thumbs .owl-nav .owl-next {
+    right: -90px;
+    bottom: 60px;
+    width: 70px;
+    height: 50px;
+    font-size: 30px;
+  }
+
+  /* Global Title Size */
+
+.heroLinks__inner a {
+  font-size: 17px;
+}
+
+.samTitle h3,
+.investmentSectTitle h3,
+.hwynuTitle h3,
+.contactInfoTitle h3,
+.hwynuTitle h3,
+.contactInfoTitle h3,
+.sendAMessageTitle h3,
+.stonTitle h3,
+.homeSchoolTitle h3,
+.homeSchool2Title h3,
+.bmTitle h3,
+.categoryTitle h3,
+.rsTitle h3,
+.podcastTitle h3,
+.subsTitle h3,
+.smnTitle h3,
+.pcTitle h3,
+.resourcesTitle h3,
+.downloadsTopTitle h3,
+.taTitle h3,
+.ebTitle h3,
+.dbTitle h3,
+.hpnrTitle h3,
+.bamTitle h3,
+.faqTTitle h3,
+.ciTitle h3,
+.dtTitle h3,
+.pTitle h3,
+.cTitle h3,
+.acTitle h3,
+.sTitle h3,
+.mpTitle h3,
+.auTitle h3,
+.mttTitle h3,
+.wwdTitle h3,
+.eduTitle h3,
+.fsTitle h3,
+.laaaTitle h3,
+.lacTitle h3 {
+  font-size: 48px;
+}
+
+.contactInfoTitle::before,
+.samTitle::before,
+.investmentSectTitle::before,
+.hwynuTitle::before,
+.sendAMessageTitle::before,
+.stonTitle::before,
+.homeSchoolTitle::before,
+.homeSchool2Title::before,
+.bmTitle::before,
+.categoryTitle::before,
+.rsTitle::before,
+.podcastTitle::before,
+.subsTitle::before,
+.smnTitle::before,
+.pcTitle::before,
+.resourcesTitle::before,
+.downloadsTopTitle::before,
+.taTitle::before,
+.ebTitle::before,
+.dbTitle::before,
+.hpnrTitle::before,
+.bamTitle::before,
+.faqTTitle::before,
+.ciTitle::before,
+.dtTitle::before,
+.pTitle::before,
+.cTitle::before,
+.acTitle::before,
+.sTitle::before,
+.mpTitle::before,
+.auTitle::before,
+.mttTitle::before,
+.wwdTitle::before,
+.eduTitle::before,
+.fsTitle::before,
+.laaaTitle::before {
+  border-width: 9px;
+}
+
+.samP p,
+.investmentSection p, .signUp,
+.hwynuSection p,
+.formInput input, .formMessage textarea,
+.newsLetterForm input[type=text],
+.homeSchoolSect p,
+.flexiSchoolCard p,
+.bmSect p,
+.postInfo p, .postInfo a,
+.podcastInfo li,
+.podcastInfo p,
+.pcInfo p,
+.downloadsTopSect p,
+.taSect p,
+.ebSect p,
+.hpnrSect p,
+.mttCard p,
+.bamForm input,
+.pCard p,
+.cInfo p,
+.inputForm input,
+.inputText textarea,
+.auSect p,
+.auList li,
+.auList a,
+.mttSect p,
+.wwdSect p,
+.fsSect li,
+.laaaSect p,
+.lacSect p {
+  font-size: 14px;
+}
+
+/* Blog and Media Page */
+
+.bmTitle .top-inner {
+  margin-left: 66px;
+}
+
+.bmTitle .bottom {
+  margin-left: 105px;
+}
+
+.bmTitle::before {
+  left: 93px;
+  top: -40px;
+  width: 260px;
+  height: 360px;
+}
+
+.bmImg {
+  max-width: 600px;
+  height: auto;
+  margin-bottom: 15px;
+}
+
+.bmSect p {
+  margin-bottom: 5px;
+}
+
+.categoryTitle {
+  margin-right: 55px;
+  margin-top: 100px;
+}
+
+.categoryTitle::before {
+  top: -100px;
+  width: 320px;
+  height: 280px;
+}
+
+.cSImg {
+  width: 70px;
+  height: 70px;
+  margin: 0 auto 10px;
+}
+
+.categorySect h6 {
+  font-size: 17px;
+}
+
+.rsTitle::before {
+  top: 55px;
+  width: 340px;
+  height: 230px;
+}
+
+.recentPostForm h4 {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.recentPostForm h4:after {
+  width: 140px;
+  height: 22px;
+}
+
+.recentPostForm h4:before {
+  top: 9px;
+}
+
+.postCard {
+  margin-bottom: 30px;
+}
+
+.podcastTitle {
+  margin: 0 auto 100px;
+}
+
+.podcastTitle::before {
+  left: 70px;
+  top: -40px;
+  width: 260px;
+  height: 250px;
+}
+
+.podcastImg {
+  width: 200px;
+  top: -3px;
+  left: -3px;
+  bottom: -3px;
+}
+
+.podcastCard {
+  border: 3px solid #000;
+  margin-bottom: 40px;
+  min-height: 200px;
+  padding: 20px;
+}
+
+.podcastInfo {
+  margin-left: 200px;
+}
+
+.podcastInfo h2 {
+  font-size: 27px;
+}
+
+.podcastInfo ul {
+  margin-bottom: 10px;
+}
+
+.podcastMoreBtn a {
+  padding: 10px 50px;
+  font-size: 17px;
+}
+
+.subsTitle::before {
+  top: 120px;
+  width: 360px;
+  height: 240px;
+}
+
+.subsImg {
+  max-width: 550px;
+}
+
+.smnImg {
+  margin-left: 60px;
+  max-width: 430px;
+  margin-bottom: 15px;
+}
+
+.smnSect a {
+  margin-left: 70px;
+  font-size: 22px;
+}
+
+.smnTitle::before {
+  left: 60px;
+  width: 270px;
+  height: 250px;
+}
+
+.pcTitle {
+  max-width: 350px;
+  margin-left: 90px;
+  margin-bottom: 60px;
+}
+
+.smnTitle .bottom {
+  margin-left: 335px;
+}
+
+.pcTitle::before {
+  top: 95px;
+  width: 360px;
+  height: 240px;
+}
+
+.pcInfo {
+  max-width: 470px;
+}
+
+.pcImg {
+  margin-bottom: 30px;
+}
+
+.pcInfo h4 {
+  font-size: 23px;
+  margin-bottom: 15px;
+}
+
+.pcInfo a {
+  font-size: 17px;
+  padding: 10px 60px;
+}
+
+/* About Us Page */
+
+.auTitle {
+  margin-left: 60px;
+}
+
+.auTitle .bottom {
+  margin-left: 125px;
+}
+
+.auTitle::before {
+  left: 112px;
+  top: -40px;
+  width: 260px;
+  height: 360px;
+}
+
+.auImg {
+  max-width: 450px;
+  margin-bottom: 50px;
+  margin-top: 80px
+}
+
+.mttCard h5 {
+  font-size: 19px;
+}
+
+.mttCard h6 {
+  font-size: 18px;
+}
+
+.wwdImg {
+  max-width: 310px;
+  margin-top: 10px;
+}
+
+.wwdTitle::before {
+  right: -10px;
+  top: -50px;
+  width: 260px;
+  height: 270px;
+}
+
+.wwdSect h6 {
+  font-size: 20px;
+  margin-top: 100px;
+}
+
+.eduTitle::before {
+  right: 0;
+  top: 70px;
+  width: 360px;
+  height: 240px;
+}
+
+.eduImg {
+  max-width: 500px;
+  margin-bottom: 15px;
+}
+
+.eduSect p {
+  font-size: 17px;
+  margin-bottom: 20px;
+}
+
+.fsTitle::before {
+  right: -10px;
+  top: 45px;
+  width: 360px;
+  height: 240px;
+}
+
+.fsSect h6 {
+  margin-top: 40px;
+  font-size: 19px;
+}
+
+.fsImg {
+  max-width: 380px;
+}
+
+.laaaTitle .top {
+  margin-bottom: 10px;
+}
+
+.laaaTitle::before {
+  left: -10px;
+  top: 100px;
+  width: 380px;
+  height: 335px;
+}
+
+.lacImgTop {
+  max-width: 340px;
+  margin-left: -100px;
+}
+
+.lacImgBot {
+  max-width: 360px;
+}
+
+/* Community Interaction Page */
+
+.ciTitle {
+  margin-bottom: 50px;
+}
+
+.ciTitle .bottom {
+    margin-left: 220px;
+}
+
+.ciTitle::before {
+  left: 210px;
+  top: -40px;
+  width: 310px;
+  height: 360px;
+}
+
+.ciImage {
+  max-width: 530px;
+}
+
+.dtCard p {
+  font-size: 17px;
+  margin-bottom: 20px;
+}
+
+.dtCard a {
+  padding: 5px 20px;
+  font-size: 15px;
+}
+
+.dtTitle::before {
+  left: -260px;
+  top: -40px;
+  width: 260px;
+  height: 250px;
+}
+
+.pTitle::before {
+  left: 90px;
+  top: -40px;
+  width: 260px;
+  height: 360px;
+}
+
+.pTitle {
+  margin-left: 100px;
+  margin-bottom: 50px;
+}
+
+.pImg {
+  margin-left: 250px;
+  max-width: 520px;
+  margin-bottom: 30px;
+}
+
+.pList {
+  margin-left: 250px;
+  margin-right: 100px;
+}
+
+.cImg {
+  width: 80px;
+  height: 80px;
+}
+
+.cInfo h6 {
+  margin-bottom: 5px;
+}
+
+.cCardReply {
+  margin-left: 80px;
+}
+
+.cReplyBtn a {
+  padding: 5px 20px;
+  font-size: 14px;
+}
+
+.cTitle::before {
+  left: -10px;
+  top: -100px;
+  width: 260px;
+  height: 250px;
+}
+
+.acTitle .top-inner {
+  margin-left: 45px;
+}
+
+.acTitle .bottom {
+  margin-left: 70px;
+}
+
+.acTitle::before {
+  left: -20px;
+  top: 94px;
+  width: 360px;
+  height: 240px;
+}
+
+/* Contact Page */
+
+.contactInfoTitle .bottom {
+  margin-left: 150px;
+}
+
+.contactInfoTitle::before {
+  top: -40px;
+  left: 140px;
+  width: 260px;
+  height: 360px;
+}
+
+.contactInfoImg {
+  max-width: 580px;
+}
+
+.contactInfo {
+  margin-left: 190px;
+}
+
+.contactInfo p {
+  font-size: 17px;
+  margin-bottom: 10px;
+}
+
+.sendAMessageTitle .middle {
+  margin-left: 62px;
+}
+
+.sendAMessageTitle .bottom {
+  margin-left: 95px;
+}
+
+.sendAMessageTitle::before {
+  left: -165px;
+  top: -60px;
+  width: 260px;
+  height: 250px;
+}
+
+.formMessage textarea {
+  height: 140px;
+}
+
+.stonTitle .middle {
+  margin-left: 135px;
+}
+
+.stonTitle .bottom {
+  margin-left: 185px;
+}
+
+.stonTitle::before {
+  left: -175px;
+  top: -30px;
+  width: 360px;
+  height: 240px;
+}
+
+.newsLetterForm input[type=submit] {
+  font-size: 17px;
+  padding: 8px 50px;
+}
+
+/* Home Flexi School Page */
+
+.homeSchoolTitle .top-inner {
+  margin-left: 84px;
+}
+
+.homeSchoolTitle::before {
+  left: 175px;
+  top: -40px;
+  width: 290px;
+  height: 360px;
+}
+
+.homeSchoolTitle .bottom {
+  margin-left: 185px;
+}
+
+.homeSchoolImg {
+  max-width: 580px;
+  margin-left: 260px;
+  margin-bottom: 15px;
+}
+
+.homeSchoolSect p {
+  margin-left: 260px;
+  margin-bottom: 5px;
+}
+
+.flexiSchoolCard h5 {
+  font-size: 21px;
+  margin-bottom: 10px;
+}
+
+.homeSchool2Title::before {
+  left: 0;
+  top: 45px;
+  width: 340px;
+  height: 230px;
+}
+
+.hs2Img {
+  width: 70px;
+  height: 70px;
+  margin: 0 auto 15px;
+}
+
+.homeSchool2Sect h6 {
+  font-size: 17px;
+}
+
+/* Resources Page */
+
+.resourcesTitle::before {
+  left: 200px;
+  width: 290px;
+  height: 350px;
+}
+
+.resourcesTitle h3 {
+  margin-bottom: 130px;
+}
+
+.resourcesImg {
+  margin-right: 30px;
+  max-width: 530px;
+}
+
+.downloadsTopTitle::before {
+  left: 50px;
+  top: 0;
+  width: 300px;
+  height: 250px;
+}
+
+.downloadsTopSect a {
+  font-size: 17px;
+}
+
+.taTitle::before {
+  top: 45px;
+  width: 360px;
+  height: 240px;
+}
+
+.taTitle h3 {
+  margin-bottom: 255px;
+}
+
+.fppCardForm h5 {
+  font-size: 20px;
+}
+
+.fppImg {
+  height: 190px;
+}
+
+.ebTitle {
+  margin-left: 150px;
+}
+
+.ebTitle::before {
+  left: -165px;
+  width: 260px;
+  height: 250px;
+}
+
+.ebTitle .bottom {
+  margin-left: 96px;
+}
+
+.dbTitle::before {
+  top: 45px;
+  width: 360px;
+  height: 240px;
+}
+
+.dbImg {
+  height: 80px;
+  margin: 0 auto 10px;
+}
+
+.dbCard {
+  margin-top: 80px;
+}
+
+.dbCard h6 {
+  font-size: 17px;
+}
+
+.hpnrTitle::before {
+  left: -10px;
+  top: 55px;
+  width: 320px;
+  height: 280px;
+}
+
+.hpnrTitle {
+  margin-right: 70px;
+}
+
+.hpnrTitle .bottom {
+  margin-left: 189px;
+}
+
+.bamTitle::before {
+  left: -10px;
+  top: 45px;
+  width: 340px;
+  height: 250px;
+}
+
+.bamTitle .top {
+  margin-bottom: 0;
+}
+
+.bamTitle .bottom {
+  margin-left: 120px;
+}
+
+.bamForm span {
+  top: 7px;
+}
+
+.bamForm .email {
+  top: 11px;
+}
+
+.bamForm .phone {
+  top: 4px;
+}
+
+.faqTTitle::before {
+  top: 120px;
+  height: 240px;
+}
+
+/* Services and Membership Page */
+
+.samTitle {
+  margin-left: 0;
+}
+
+.samTitle .middle {
+  margin-left: 126px;
+}
+
+.samTitle .bottom {
+  margin-left: 160px;
+}
+
+.samTitle::before {
+  left: 151px;
+  width: 310px;
+  height: 360px;
+}
+
+.samImg {
+  margin-left: 255px;
+  max-width: 540px;
+  margin-bottom: 20px;
+}
+
+.samImgBtn {
+  bottom: 15px;
+  left: 40px;
+}
+
+.samImgBtn a {
+  font-size: 19px;
+}
+
+.samP {
+  margin-left: 155px;
+}
+
+.investmentSectTitle::before {
+  left: -128px;
+  width: 260px;
+  height: 250px;
+}
+
+.investmentSectTitle .middle {
+  margin-left: 81px;
+}
+
+.investmentSectTitle .bottom {
+  margin-left: 132px;
+}
+
+.hwynuTitle {
+  padding-right: 0;
+  max-width: 350px;
+}
+
+.hwynuTitle::before {
+  bottom: -150px;
+  left: -10px;
+  width: 360px;
+  height: 240px;
+}
+
+.botSectImg {
+  margin-right: 30px;
+  max-width: 620px;
+}
+
+/* Store Page */
+
+.sTitle::before {
+  left: 107px;
+  top: -40px;
+  width: 260px;
+  height: 360px;
+}
+
+.sImg {
+  margin-top: 125px;
+  max-width: 560px;
+}
+
+.categoryTitleStore::before {
+  top: -20px;
+  width: 260px;
+  height: 250px;
+}
+
+.categoryTitleStore {
+  margin-top: 20px;
+  margin-right: 40px;
+}
+
+.mpTitle {
+  margin-left: 40px;
+  max-width: 330px;
+}
+
+.mpTitle .top {
+  margin-bottom: 0;
+}
+
+.mpTitle::before {
+  left: -15px;
+  top: 46px;
+  width: 360px;
+  height: 240px;
+}
+
+.mpImg {
+  max-width: 450px;
+  margin-left: 200px;
+}
+} 
+
+@media (max-width: 1024px) {
+  .smnTitle .bottom {
+    margin-left: 0;
+  }
+
+  .dtTitle {
+    margin-left: 0;
+}
+
+.dtTitle::before {
+  left: -10px;
+}
+}
+
+@media (max-width: 992px) {
+  .legalContain {
+    height: 790px;
+  }
+  
+  .outer { 
+    width: 610px;
+    height: 400px;
+  }
+  
+  #big .item { 
+    height: 400px;
+  }
+  
+  #thumbs { 
+    height: 130px;
+    bottom: -100px;
+    left: 30px;
+    z-index: 3;
+  }
+  
+  #thumbs .item { 
+    width: 200px;
+    height: 130px;
+    padding: 0 3px;
+  }
+
+  #thumbs .owl-nav .owl-next {
+    right: -90px;
+    bottom: 50px;
+    width: 50px;
+    height: 40px;
+    font-size: 25px;
+  }
+
+  .legalSection {
+    position: absolute;
+    top: 70px;
+    right: 2px;
+    width: 400px;
+  }
+  
+  .legalSection h4 {
+    font-size: 50px;
+    margin-bottom: 20px;
+  }
+  
+  .legalSection h4:before {
+    top: 0px;
+    left: 80px;
+  }
+  
+  .legalSection p {
+    font-size: 14px;
+    margin-bottom: 45px;
+    margin-left: 40px;
+  }
+  
+  .legalSection a {
+    font-size: 15px;
+    margin-left: 200px;
+    padding: 10px 40px;
+  }
+
+  .legalContain {
+    height: 590px;
+  }
+
+  footer li:not(:last-child) {
+    margin-right: 30px;
+}
+}
+
+@media (max-width: 991px) {
+  .container {
+    max-width: 100%;
+    padding: 0 25px;
+  }
+
+  .whatWeDoSection h1 {
+    margin-bottom: 100px;
+}
+
+.whatWeDoSection h1:before {
+  top: 20px;
+  left: 150px;
+}
+
+.collapsing ul {
+  padding: 0 25px;
+}
+
+nav ul {
+  position: absolute;
+  right: 0;
+  bottom: -270px;
+  background: rgba(0, 0, 0, .9);
+  display: inline-block;
+  width: 100%;
+}
+
+.navbar-toggler {
+  margin-top: 40px;
+}
+
+/* Global */
+
+.samP p,
+.investmentSection p, .signUp,
+.hwynuSection p,
+.formInput input, .formMessage textarea,
+.newsLetterForm input[type=text],
+.homeSchoolSect p,
+.flexiSchoolCard p,
+.bmSect p,
+.postInfo p, .postInfo a,
+.podcastInfo li,
+.podcastInfo p,
+.pcInfo p,
+.downloadsTopSect p,
+.taSect p,
+.ebSect p,
+.hpnrSect p,
+.bamForm input,
+.pCard p,
+.cInfo p,
+.inputForm input,
+.inputText textarea,
+.auSect p,
+.auList li,
+.auList a,
+.mttSect p,
+.wwdSect p,
+.fsSect li,
+.laaaSect p,
+.lacSect p {
+  font-size: 12px;
+}
+
+.header_inner {
+  padding: 0;
+}
+
+/* Blog and Media Page */
+
+.top__nav__inner {
+  display: flex;
+  flex-direction: column-reverse;
+  top: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 500px;
+}
+
+.top__nav__inner .hotline {
+  margin: 0 auto 10px;
+  width: 260px;
+}
+
+.bmTitle {
+  margin-left: 0;
+  margin: auto;
+  max-width: 320px;
+}
+
+.bmImg {
+  max-width: 600px;
+  height: auto;
+  margin: 110px auto 15px;
+}
+
+.bmSect p {
+  text-align: center;
+}
+
+.categorySectFR {
+  flex-direction: column-reverse;
+}
+
+.categoryTitle {
+  margin-right: 0;
+  margin-top: 100px;
+}
+
+.categoryTitle h3 {
+  text-align: center;
+  margin-bottom: 150px;
+}
+
+.categoryTitle::before {
+  top: -100px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 320px;
+  height: 280px;
+}
+
+.rsTitle {
+  text-align: center;
+}
+
+.rsTitle .bottom {
+  margin-left: 0;
+}
+
+.rsTitle {
+  margin: 0 0 80px;
+  position: relative;
+}
+
+.rsTitle::before {
+  top: -55px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 340px;
+  height: 230px;
+}
+
+.podcastTitle {
+  margin: 0 auto 100px;
+  text-align: center;
+}
+
+.podcastTitle .bottom {
+  margin-left: 0;
+}
+
+.podcastTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+  top: -40px;
+}
+
+.subsTitle {
+    max-width: 280px;
+    margin: 0 auto 70px;
+}
+
+.subsTitle::before {
+  top: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 360px;
+  height: 240px;
+}
+
+.subsImg {
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+.smnTitle {
+  margin-bottom: 100px;
+}
+
+.smnTitle h3 {
+  text-align: center;
+}
+
+.smnTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+  width: 270px;
+  height: 250px;
+}
+
+.smnImg {
+  margin: 0 auto 15px;
+}
+
+.pcTitle {
+  max-width: 280px;
+  margin: 0 auto 120px;
+}
+
+.pcTitle::before {
+  top: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 360px;
+  height: 240px;
+}
+
+/* About Us Page */
+
+.auTitle {
+  margin-left: 0;
+  text-align: center;
+}
+
+.auTitle .bottom {
+  margin-left: 0;
+}
+
+.auTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.auImg {
+  max-width: 450px;
+  margin: 50px auto 80px;
+}
+
+.auList {
+  margin: 0 auto;
+}
+
+.columnReverse {
+  flex-direction: column-reverse;
+}
+
+.mttTitle {
+  margin-right: 0;
+  margin-bottom: 100px;
+}
+
+.mttTitle h3 {
+  text-align: center;
+}
+
+.mttTitle::before {
+  right: 50%;
+  transform: translateX(50%);
+  top: -60px;
+  width: 250px;
+  height: 280px;
+}
+
+.wwdTitle h3 {
+  text-align: center;
+}
+
+.wwdTitle::before {
+  right: 50%;
+  transform: translate(50%);
+}
+
+.wwdImg {
+  max-width: 450px;
+  margin: 50px auto;
+}
+
+.wwdSect h6 {
+  margin-top: 0px;
+}
+
+.eduTitle h3 {
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+.eduTitle::before {
+  right: 50%;
+  transform: translateX(50%);
+  top: -70px;
+  width: 360px;
+  height: 240px;
+}
+
+.eduImg {
+  max-width: 500px;
+  margin: 0 auto 15px;
+}
+
+.eduSect {
+  text-align: center;
+}
+
+.fsTitle h3 {
+  text-align: center;
+}
+
+.fsTitle .bottom {
+  text-align: center;
+}
+
+.fsTitle::before {
+  right: 50%;
+  transform: translateX(50%);
+}
+
+.fsImg {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.lacSect {
+  text-align: center;
+}
+
+.laaaTitle {
+  margin-top: 0;
+  margin-bottom: 40px;
+}
+
+.laaaTitle h3 {
+  text-align: center;
+}
+
+.laaaTitle .bottom {
+  margin-left: 0;
+}
+
+.laaaTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+  top: 100px;
+  width: 380px;
+  height: 335px;
+}
+
+.laaaImg {
+  max-width: 500px;
+  margin: 0 auto 20px;
+}
+
+.lacImg {
+  display: inline-block;
+  margin: 30px auto;
+}
+
+.lacTitle {
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.lacTitle .top {
+  margin-bottom: 0px;
+}
+
+.mttCard {
+  margin-bottom: 30px;
+}
+
+.wwdTitle {
+  margin-right: 0;
+}
+
+.laaaTitle::before {
+  height: 305px;
+}
+
+/* Community Interaction Page */
+
+.ciTitle h3{
+  text-align: center;
+}
+
+.ciTitle .bottom {
+  margin-left: 0;
+}
+
+.ciTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+  top: -40px;
+  width: 310px;
+  height: 360px;
+}
+
+.ciImage {
+  margin: 0 auto;
+}
+
+.dtTitle {
+  margin-bottom: 120px;
+}
+
+.dtTitle h3 {
+  text-align: center;
+}
+
+.dtTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.pTitle {
+  margin-left: 0;
+  margin-bottom: 100px;
+}
+
+.pTitle h3 {
+  text-align: center;
+}
+
+.pTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.pImg {
+  margin: 0 auto 30px;
+}
+
+.pList {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.cTitle {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 100px;
+}
+
+.cTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.cInfo {
+  width: 100%;
+}
+
+.acTitle {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.acTitle .top-inner {
+  margin-left: 0;
+}
+
+.acTitle .bottom {
+  margin-left: 0;
+}
+
+.acTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+  top: -40px;
+}
+
+.contactInfoTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+/* Contact Page */
+
+.contactInfoTitle {
+  margin-left: 0;
+  text-align: center;
+}
+
+.contactInfoTitle .bottom {
+  margin-left: 0;
+}
+
+.contactInfoImg {
+  margin: 100px auto 20px;
+}
+
+.contactInfo {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.formGroup {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.sendAMessageTitle {
+  text-align: center;
+  margin: 0 auto 80px;;
+}
+
+.sendAMessageTitle .middle {
+  margin-left: 0;
+}
+
+.sendAMessageTitle .bottom {
+  margin-left: 0;
+}
+
+.sendAMessageTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.newsLetterForm {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.stonTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.stonTitle {
+  margin-left: 0;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.stonTitle .middle {
+  margin-left: 0;
+}
+
+.stonTitle .bottom {
+  margin-left: 0;
+}
+
+/* Home Flexi School Page */
+
+.homeSchoolTitle {
+  text-align: center;
+  max-width: unset;
+}
+
+.homeSchoolTitle .top-inner {
+  margin-left: 0;
+}
+
+.homeSchoolTitle .bottom {
+  margin-left: 0;
+}
+
+.homeSchoolTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.homeSchoolImg {
+  max-width: 580px;
+  margin: 0 auto 15px;
+}
+
+.homeSchoolSect p {
+  margin: 0 auto 5px;
+  text-align: center;
+}
+
+.homeSchool2Title {
+  text-align: center;
+}
+
+.homeSchool2Title .bottom {
+  margin-left: 0;
+}
+
+.homeSchool2Title::before {
+  left: 50%;
+  transform: translateX(-50%);
+  top: -70px;
+}
+
+/* Resources Page */
+
+.resourcesTitle {
+  margin-left: 0;
+  text-align: center;
+}
+
+.resourcesTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.resourcesImg {
+  margin: 0 auto;
+  max-width: 530px;
+}
+
+.downloadsTopTitle {
+  margin-left: 0;
+  margin-bottom: 140px;
+  text-align: center;
+}
+
+.downloadsTopTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.downloadsTopSect {
+  text-align: center;
+}
+
+.downloadsTopSect p {
+  text-align: left;
+  margin-top: 20px;
+}
+
+.taTitle {
+  margin-left: 0;
+  text-align: center;
+}
+
+.taTitle h3 {
+  margin-bottom: 70px;
+}
+
+.taTitle::before {
+  top: -80px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.taSect p {
+  margin-bottom: 40px;
+}
+
+.ebTitle {
+  margin-left: 0;
+  text-align: center;
+}
+
+.ebTitle .bottom {
+  margin-left: 0;
+}
+
+.ebTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.hpnrTitle {
+  margin-right: 0;
+  text-align: center;
+}
+
+.hpnrTitle .top {
+  margin-bottom: 0;
+}
+
+.hpnrTitle .bottom {
+  margin-left: 0;
+}
+
+.hpnrTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+  top: -10px;
+}
+
+.faqTTitle {
+  max-width: 350px;
+  margin: 0 auto 60px;
+}
+
+.faqTTitle::before {
+  left: 0px;
+  top: -30px;
+  width: 100%;
+}
+
+.faqTList {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.faqBsect li {
+  width: unset;
+  max-width: 700px;
+  margin: 0 auto 20px;
+}
+
+.dbTitle {
+  margin-left: 0;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.dbTitle::before {
+  top: -70px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+/* Services and Membership Page */
+
+.samTitle {
+  text-align: center;
+}
+
+.samTitle .middle {
+  margin-left: 0;
+}
+
+.samTitle .bottom {
+  margin-left: 0;
+}
+
+.samTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.samImg {
+  margin-left: 0;
+  margin: 0 auto 20px;
+  max-width: 540px;
+  margin-bottom: 20px;
+}
+
+.samP {
+  margin: 0 auto;
+}
+
+.investmentSectTitle {
+  margin-left: 0;
+  text-align: center;
+  margin-bottom: 90px;
+}
+
+.investmentSectTitle .middle {
+  margin-left: 0;
+}
+
+.investmentSectTitle .bottom {
+  margin-left: 0;
+}
+
+.investmentSectTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.investmentSection p, .signUp {
+  text-align: center;
+}
+
+.hwynuTitle {
+  text-align: center;
+  margin-left: unset;
+  margin: 0 auto 70px;
+}
+
+.hwynuTitle .top {
+  text-align: center;
+}
+
+.hwynuTitle::before {
+  bottom: -40px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.hwynuSection p {
+  max-width: 700px;
+  margin: 0 auto 15px;
+}
+
+.botSectImg {
+  margin: 0 auto;
+}
+
+/* Store Page */
+
+.sTitle {
+  margin-left: 0;
+  text-align: center;
+}
+
+.sTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.sImg {
+  margin: 125px auto 0;
+  max-width: 560px;
+}
+
+.categoryTitleStore {
+  margin-top: 0;
+  margin-right: 0;
+  text-align: center;
+}
+
+.categoryTitleStore::before {
+  top: -70px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 260px;
+  height: 250px;
+}
+
+.mpTitle {
+  margin-left: 0;
+  text-align: center;
+  max-width: 330px;
+  margin: 0 auto 30px;
+}
+
+.mpTitle .top {
+  text-align: center;
+}
+
+.mpTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+  top: -50px;
+  width: 360px;
+  height: 240px;
+}
+
+.mpImg {
+  max-width: 450px;
+  margin: 0 auto 30px;
+}
+}
+
+@media (max-width: 768px) {
+  .whoWeAreSection {
+    padding-top: 90px;
+    padding-bottom: 150px;
+    text-align: center;
+}
+
+.whoWeAreSection::after {
+  top: 95px;
+  right: 100px;
+}
+
+.legalContain {
+  height: 900px;
+}
+
+.legalSection {
+  top: 550px;
+  left: 30px;
+  width: initial;
+  max-width: 100%;
+  height: 300px;
+}
+
+.legalSection p {
+  margin-left: 0;
+}
+
+.legalSection a {
+  margin-left: 0;
+}
+}
+
+@media (max-width: 767px) {
+.nav__bar {
+  padding-top: 80px;
+}
+
+.top__nav {
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 300px;
+  height: 25px;
+  flex-wrap: wrap;
+}
+
+.sFormLocation {
+  width: 50%;
+}
+
+.sFormSearch input, .sFormLocation input {
+  width: 100%;
+}
+
+.heroSection {
+  height: 800px;
+}
+
+.heroLinks {
+  top: 200px;
+}
+
+.heroText {
+  padding-top: 40vh;
+}
+
+.sFormSearch {
+  margin-right: 1%;
+  width: 49%;
+}
+
+.hotline {
+  width: 100%;
+  margin-bottom: 5px;
+  margin-right: 0;
+}
+
+  .whoWeAreSection h1 {
+    font-size: 250px;
+}
+
+.outer { 
+    width: 100%;
+    height: 400px;
+  }
+  
+  #big .item { 
+    height: 400px;
+  }
+  
+  #thumbs { 
+    height: 130px;
+    width: 100%;
+    left: 0;
+    bottom: -100px;
+    z-index: 3;
+  }
+  
+  #thumbs .item { 
+    width: 100%;
+    height: 130px;
+  }
+
+  #thumbs .owl-nav .owl-next {
+    display: none;
+}
+
+footer li:not(:last-child) {
+  margin-right: 0;
+  margin-bottom: 20px;
+}
+
+footer li {
+  display: block;
+}
+
+.top__nav__inner {
+  display: flex;
+  flex-direction: column-reverse;
+  top: 0px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 500px;
+  height: auto;
+}
+
+.h-l {
+  display: none !important;
+}
+
+.heroLinks__inner {
+  margin: 0 auto;
+}
+
+.flexiSchoolCard {
+  padding: 70px 30px 30px;
+  max-width: 350px;
+  margin: 0 auto 30px;
+}
+
+.fppImg {
+  max-width: 300px;
+  margin: 50px auto 30px;
+  height: 190px;
+}
+
+.ebCard {
+  width: unset;
+  max-width: 400px;
+  margin: 0 auto 30px;
+}
+
+.bamTitle {
+  width: unset;
+  margin: auto;
+  text-align: center;
+}
+
+.bamTitle .bottom {
+  margin-left: 0;
+}
+
+.bamTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+  top: -45px;
+}
+}
+
+@media (max-width: 576px) {
+  .whoWeAreSection h1 {
+    font-size: 150px;
+}
+.whoWeAreCard p {
+  color: #fff;
+}
+}
+
+@media (max-width: 575px) {
+  .whoWeAreCard p {
+    max-width: 100%;
+}
+
+.whatWeDoSection h1 {
+  font-size: 150px;
+}
+
+.whoWeAreCard a {
+  margin: 0;
+}
+
+.whatWeDoImg {
+  margin-top: 30px;
+}
+
+.legalContain {
+  height: 1000px;
+}
+
+.categorySect li {
+  width: 100%;
+}
+
+.postCard {
+  flex-wrap: wrap;
+}
+
+.postImg {
+  width: 100%;
+  margin-right: 0px;
+  margin-bottom: 15px;
+}
+
+.postInfo {
+  width: 100%;
+}
+
+.header_inner {
+  padding-top: 70px;
+}
+
+.top__nav__inner {
+  display: flex;
+  flex-direction: column-reverse;
+  top: -60px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 500px;
+  height: auto;
+}
+
+.podcastImg {
+  width: 200px;
+  top: 20px;
+  left: 50%;
+  bottom: unset;
+  transform: translateX(-50%);
+}
+
+.podcastInfo {
+  margin-left: 0;
+  margin-top: 210px;
+}
+
+.bmTitle {
+  text-align: center;
+}
+
+.bmTitle .top-inner {
+  margin-left: 0;
+}
+
+.bmTitle .bottom {
+  margin-left: 0;
+}
+
+.bmTitle::before {
+  left: 50%;
+  transform: translateX(-50%);
+  width: 260px;
+  height: 360px;
+}
+
+.rsTitle::before {
+  width: 100%;
+  height: 230px;
+}
+
+.podcastTitle,
+.smnTitle {
+  width: 100%;
+}
+
+.subsTitle::before {
+  width: 100%;
+  
+}
+
+.pcTitle::before {
+  width: 100%;
+}
+
+.eduTitle::before {
+  width: 300px;
+}
+
+.fsTitle::before {
+  width: 300px;
+}
+
+.laaaTitle::before {
+  width: 280px;
+}
+
+.acTitle::before {
+  width: 100%;
+}
+
+.stonTitle::before {
+  width: 300px;
+}
+
+.formInput-half {
+  width: 100%;
+}
+
+.contactInfo li {
+  margin-bottom: 20px;
+}
+
+.homeSchool2Sect li {
+  width: 50%;
+}
+
+.homeSchool2Title::before {
+  width: 300px;
+}
+
+.downloadsTopSect a {
+  font-size: 11px;
+}
+
+.dbTitle::before {
+  width: 300px;
+}
+
+.taTitle::before {
+  width: 280px;
+}
+
+.bamTitle::before {
+  width: 300px;
+}
+
+.ebListNav p {
+    left: 50%;
+    top: 50%;
+    transform: translate(0, -50%);
+}
+
+.ebListNav {
+  padding: 20px 10px;
+  margin-bottom: 30px;
+}
+
+.iSImg {
+  margin: 50px auto 30px;
+}
+
+.samTitle {
+  margin-bottom: 20px;
+}
+
+.hwynuTitle::before {
+  width: 300px;
+}
+
+.samImgBtn {
+  bottom: -180px;
+  left: 5px;
+  z-index: 10;
+}
+
+.samImg {
+  margin: 0 auto 180px;
+}
+
+.mpTitle::before {
+  width: 300px;
+}
+}
